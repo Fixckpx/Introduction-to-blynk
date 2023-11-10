@@ -26,4 +26,5 @@ upload ขึ้น youtube เป็น video ที่ดูได้สำห
 
 ส่ง link มาเป็น pull request
 
-
+https://github.com/Fixckpx/Introduction-to-blynk/tree/main/64030012
+https://youtu.be/4NbQZnNyPbU?si=GQLCIOxo7E3N9xis
